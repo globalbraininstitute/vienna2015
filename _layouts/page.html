@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body>
+		{% include navigation.html %}
+
+	<div class="page-contents">
+		<article class="post">
+
+  		<h1>{{ page.title }}</h1>
+
+		  <div class="entry">
+		    {{ content }}
+		  </div>
+
+		{% if page.comments %}
+		{% include disqus.html %}
+		{% endif %}
+		</article>
+	</div>
+
+
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>
