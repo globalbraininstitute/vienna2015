@@ -1,8 +1,8 @@
 ---
-title: Keynote speaker&#58; Francis Heylighen
+title: Keynote speaker&#58; <a href='http://pespmc1.vub.ac.be/heyl.html' target='blank'>Francis Heylighen</a>
 layout: default
 date: 2014-11-17
-img: ../people/francis_20141118.png
+img: ../people/francis.png
 link: speakers/francis
 category: Speakers
 description: |
