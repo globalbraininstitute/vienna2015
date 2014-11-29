@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/w2sznrVtiLg" frameborder="0" allowfullscreen></iframe>
+<!--<iframe width="420" height="315" src="//www.youtube.com/embed/w2sznrVtiLg" frameborder="0" allowfullscreen></iframe>-->
 
 ## Questions and comments 
 
