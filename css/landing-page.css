@@ -22,6 +22,25 @@ h6 {
     font-weight: 700;
 }
 
+p {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+}
+
+li {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+}
+
+.ident{
+    margin-left: 30px;
+}
+
+.center{
+    text-align: center;
+}
+
+
 .img-responsive {
     width: 280px;
 }
