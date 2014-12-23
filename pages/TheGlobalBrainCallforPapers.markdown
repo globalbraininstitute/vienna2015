@@ -30,7 +30,6 @@ Vienna University of Technology, June 3-7, 2015
 ##Conference track theme
 
 
-
 The [Global Brain](http://www.wikipedia.org/wiki/Global_brain) can be defined as the self-organizing network formed by all
 people on this planet together with the information and communication
 technologies that connect and support them. As

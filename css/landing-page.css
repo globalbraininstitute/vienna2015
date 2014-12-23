@@ -131,8 +131,23 @@ li {
     border-bottom: 1px solid #e7e7e7;
 }
 
+.conference-theme {
+    padding: 40px 0;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    margin-bottom: 40px;
+}
+
 .section-heading {
     margin-bottom: 30px;
+}
+
+.main-section-heading {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h1.main-section-heading {
+    text-align: center
 }
 
 .section-heading-spacer {
