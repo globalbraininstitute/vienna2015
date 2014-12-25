@@ -45,11 +45,12 @@ approaches. Yet, at the same time it will create technological and
 social challenges that are still difficult to imagine, transforming our
 society in all aspects.
 
-###Invited Speaker
+###Invited Speakers
 
 -   Prof. Francis Heylighen, director of the [Global Brain
-    Institute](http://www.globalbraininstitute.org), Vrije Universiteit, Brussel
+    Institute](http://www.globalbraininstitute.org), Vrije Universiteit, Brussel;
 
+-   Prof. Dirk Helbing, Chair of Sociology, RTH Zürich.
  
 ###Subject and Scope
 
