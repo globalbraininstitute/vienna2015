@@ -6,6 +6,6 @@ img: ../people/francis.png
 link: speakers/francis
 category: Speakers
 description: |
-   <p class="lead">Title to be announced...</p>
+   <p class="lead">The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web</p>
 
 ---
