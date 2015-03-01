@@ -1,5 +1,5 @@
 ---
-title: <a href='http://pespmc1.vub.ac.be/heyl.html' target='blank'>Francis Heylighen</a>
+title: Francis Heylighen
 layout: page
 speaker: true
 categories: [speaker]
@@ -26,6 +26,11 @@ The anticipated outcome of that process is a "global brain", i.e. a nervous syst
 
 * Heylighen, F. (2008). [Accelerating socio-technological evolution: from ephemeralization and stigmergy to the global brain](http://pcp.vub.ac.be/papers/AcceleratingEvolution.pdf). In Globalization as evolutionary process: modeling global change (p. 284). Routledge. 
 
+## Links:
+
+* [Home page](http://pespmc1.vub.ac.be/heyl.html)
+
+* [Publications (Google Scholar page)](http://scholar.google.be/citations?hl=en&user=jt7BHBUAAAAJ&view_op=list_works&sortby=pubdate&cstart=60&pagesize=20)
 
 ## Questions and comments 
 
