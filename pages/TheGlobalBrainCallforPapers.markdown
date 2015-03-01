@@ -93,7 +93,7 @@ are not limited to, the following:
 
 The conference track will have 3 parts:
 
-1. Keynote talk by Prof. Francis Heylighen
+1. Keynote talks by Prof. Francis Heylighen and Prof. Dirk Helbing.
 2. Paper presentation session (including Q&A).
 3. Free discussion session. 
 
