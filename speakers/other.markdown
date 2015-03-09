@@ -8,6 +8,5 @@ comments: false
 
 ---
 
-
-## Questions and comments 
+The call for papers has finished. The scientific board is evaluating submitted abstracts which will be published as soon as possible.
 
