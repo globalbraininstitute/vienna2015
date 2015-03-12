@@ -149,6 +149,9 @@ li {
 h1.main-section-heading {
     text-align: center
 }
+p.main-section-heading {
+    text-align: center   
+}
 
 .section-heading-spacer {
     float: left;
