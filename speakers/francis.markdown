@@ -33,5 +33,3 @@ The anticipated outcome of that process is a "global brain", i.e. a nervous syst
 * [Publications (Google Scholar page)](http://scholar.google.be/citations?hl=en&user=jt7BHBUAAAAJ&view_op=list_works&sortby=pubdate&cstart=60&pagesize=20)
 
 ## Questions and comments 
-
-Please use the form below for asking questions (will be enabled during the conference).
