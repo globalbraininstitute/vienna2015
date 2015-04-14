@@ -1,0 +1,10 @@
+---
+title: Contributed talk&#58; Viktoras Veitas and Weaver (David Weinbaum)
+layout: default
+date: 2015-04-15
+img: ../people/viktoras.png
+link: speakers/vveitas
+category: Speakers
+description: |
+ <p class="lead">Living Cognitive Society: a "digital" World of Views</p>
+---
