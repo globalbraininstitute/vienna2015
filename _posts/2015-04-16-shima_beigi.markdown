@@ -2,7 +2,7 @@
 title: Contributed talk&#58; Shima Beigi
 layout: default
 date: 2015-04-16
-img: ../people/anonymous.png
+img: ../people/shima.png
 link: speakers/beigi
 category: Speakers
 description: |
