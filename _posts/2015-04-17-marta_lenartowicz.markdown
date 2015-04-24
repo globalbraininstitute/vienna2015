@@ -2,7 +2,7 @@
 title: Contributed talk&#58; Marta Lenartowicz</a>
 layout: default
 date: 2015-04-17
-img: ../people/marta.png
+img: ../people/martal.png
 link: speakers/lenartowicz
 category: Speakers
 description: |
