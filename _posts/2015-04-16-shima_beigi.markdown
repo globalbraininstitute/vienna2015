@@ -6,5 +6,5 @@ img: ../people/shima.png
 link: speakers/beigi
 category: Speakers
 description: |
- <p class="lead">Designing a Placed-based Self-organising Ecotourism Plan</p>
+ <p class="lead">Designing a Place-based Self-organising Ecotourism Plan</p>
 ---

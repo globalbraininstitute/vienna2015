@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-## Designing a Placed-based Self-organising Ecotourism Plan
+## Designing a Place-based Self-organising Ecotourism Plan
 
 ### Abstract
 
@@ -37,5 +37,5 @@ network society. Journal of Social and Evolutionary Systems, 2002: p. 1-37.
 1. Heylighen, F., Complexity and Self-Organisation Taylor & Francis 2008: p. 20.
 
 
-## Questions and comments 
+## Questions and comments
 
