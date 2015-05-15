@@ -6,6 +6,6 @@ img: ../people/anonymous.png
 link: speakers/evo
 category: Speakers
 description: |
-   <p class="lead">Let's interPlay! Does co-evolution enable or constraint?</p>
+   <p class="lead">Let's interPlay! Does co-evolution enable or constrain?</p>
 
 ---
