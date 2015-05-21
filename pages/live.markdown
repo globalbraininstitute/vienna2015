@@ -13,10 +13,10 @@ We are planning to plug the event directly to the Web with live streaming of tal
 <!--
   Consider making a nice separate page for twitter feeds and putting it on a page
   <a href="twitter_gbconf2015.html"  onclick="window.open('twitter_gbconf2015.html', 'newwindow', 'width=300, height=400'); return false;">Open feed on separate window</a> -->
-     <div class="col-lg-6">
+     <div class="col-lg-6" align="center">
         {% include twitter_gbconf2015.html %}
      </div>
-     <div class="col-lg-6">
+     <div class="col-lg-6" align="center">
         {% include twitter_globalbrain.html %}
      </div>
 </div>
