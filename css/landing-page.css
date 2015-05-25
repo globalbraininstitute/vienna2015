@@ -32,6 +32,27 @@ li {
     font-weight: 500;
 }
 
+td {
+  padding: 0.2%;
+  font-weight: normal;
+  vertical-align: top;
+}
+
+tr:nth-child(even) {
+  background: #CCC;
+}
+
+tr td:first-child { width: 100px; }
+tr td:nth-child(2) { width: 150px; }
+tr td:nth-child(3) { width: 450px; }
+tr td:nth-child(4) { width: 100px; }
+
+th {
+  padding: 1%;
+  font-weight: bold;
+  font-size: 120%;
+}
+
 .ident{
     margin-left: 30px;
 }
