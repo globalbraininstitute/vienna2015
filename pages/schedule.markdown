@@ -17,25 +17,25 @@ All talks will be held at [Freihaus, Vienna University of Technology (TU Wien), 
 |09:30 - 10:00|Francis Heylighen <br/>(Keynote)|<a href="{{site.baseurl}}/speakers/francis/">The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web</a>|Lecture Hall FH6|
 |10:00 - 10:30|Dirk Helbing <br/>(Keynote)|<a href="{{site.baseurl}}/speakers/dirk/">Creating a Planetary Nervous System as a Citizen Web</a>|Lecture Hall FH6|
 |<strong>Location change</strong>|
-|11:00 - 11:45|Francis Helighen <br/>(Extended)|<a href="{{site.baseurl}}/speakers/francis/">The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web</a>|
-|11:45 - 12:30|Dirk Helbing <br/>(Extended)|<a href="{{site.baseurl}}/speakers/dirk/">Creating a Planetary Nervous System as a Citizen Web</a>|
+|11:00 - 11:45|Francis Helighen <br/>(Extended)|<a href="{{site.baseurl}}/speakers/francis/">The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web</a>|Lecture Hall FH7|
+|11:45 - 12:30|Dirk Helbing <br/>(Extended)|<a href="{{site.baseurl}}/speakers/dirk/">Creating a Planetary Nervous System as a Citizen Web</a>|Lecture Hall FH7|
 |<strong>Lunch</strong>|
-|14:00 - 14:45|Viktoras Veitas|<a href="{{site.baseurl}}/speakers/vveitas/">Living Cognitive Society: a "digital" World of Views</a>|
-|14:45 - 15:30 |Marta Lenartowitz |<a href="{{site.baseurl}}/speakers/lenartowicz/">Mere impediments? A second thought on the role of social boundaries in self-organisation of the global collective intelligence on the Earth</a>|
+|14:00 - 14:45|Viktoras Veitas|<a href="{{site.baseurl}}/speakers/vveitas/">Living Cognitive Society: a "digital" World of Views</a>|Lecture Hall FH7|
+|14:45 - 15:30 |Marta Lenartowitz |<a href="{{site.baseurl}}/speakers/lenartowicz/">Mere impediments? A second thought on the role of social boundaries in self-organisation of the global collective intelligence on the Earth</a>|Lecture Hall FH7|
 |<strong>Coffee break</strong>|
-|16:00 – 16:45 |Evo Busseniers |<a href="{{site.baseurl}}/speakers/evo/">Let's interPlay! Does co-evolution enable or constraint?</a>|
-|16:45 – 17:30 |Roman Batko |<a href="{{site.baseurl}}/speakers/roman/">Panopticon: cybercontrol in liquid modernity: what does control really mean in contemporary management? </a>|
+|16:00 – 16:45 |Evo Busseniers |<a href="{{site.baseurl}}/speakers/evo/">Let's interPlay! Does co-evolution enable or constraint?</a>|Lecture Hall FH7|
+|16:45 – 17:30 |Roman Batko |<a href="{{site.baseurl}}/speakers/roman/">Panopticon: cybercontrol in liquid modernity: what does control really mean in contemporary management? </a>|Lecture Hall FH7|
 
 ###June 6, 2015:
 
 |Time|Speaker|Title|Location|
 |:---|---|---|---:|
-|9:30 – 10:00 |Arora Payal <br/>(Invited) |<a href="{{site.baseurl}}/speakers/arora/">Big data Commons and the global South</a> |
-|10:00 – 10:30|Stefania Milan <br/>(Invited)|<a href="{{site.baseurl}}/speakers/milan/">Big Data and the understanding of the political stream</a>|
+|9:30 – 10:00 |Arora Payal <br/>(Invited) |<a href="{{site.baseurl}}/speakers/arora/">Big data Commons and the global South</a> |Lecture Hall FH6|
+|10:00 – 10:30|Stefania Milan <br/>(Invited)|<a href="{{site.baseurl}}/speakers/milan/">Big Data and the understanding of the political stream</a>|Lecture Hall FH6|
 |<strong>Coffee break</strong>|
-|11:00 – 11:45|Cadell Last|<a href="{{site.baseurl}}/speakers/last/">Planetary Multi-Personal Transcendence: Potential Being-Net Formation in the Global Brain</a>|
-|11:45 – 12:30|Shima Beigi|<a href="{{site.baseurl}}/speakers/beigi/">Designing a Placed-based Self-organizing Ecotourism Plan: a case study for promoting the resilience of the Global Brain</a>|
+|11:00 – 11:45|Cadell Last|<a href="{{site.baseurl}}/speakers/last/">Planetary Multi-Personal Transcendence: Potential Being-Net Formation in the Global Brain</a>|Lecture Hall FH7|
+|11:45 – 12:30|Shima Beigi|<a href="{{site.baseurl}}/speakers/beigi/">Designing a Placed-based Self-organizing Ecotourism Plan: a case study for promoting the resilience of the Global Brain</a>|Lecture Hall FH7|
 |<strong>Lunch</strong>|
-|16:00 – 16:45|Dana Klisanin|<a href="{{site.baseurl}}/speakers/danaklisanin/">Choice Words: An Integral Exploration of Signifiers Being Used to Reference Global Interconnectedness</a>|
-|16:45 – 17:30|Michael E. Arth|<a href="{{site.baseurl}}/speakers/arth/">UNICE global brain project</a>|
+|16:00 – 16:45|Dana Klisanin|<a href="{{site.baseurl}}/speakers/danaklisanin/">Choice Words: An Integral Exploration of Signifiers Being Used to Reference Global Interconnectedness</a>|Lecture Hall FH7|
+|16:45 – 17:30|Michael E. Arth|<a href="{{site.baseurl}}/speakers/arth/">UNICE global brain project</a>|Lecture Hall FH7|
 
