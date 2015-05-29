@@ -61,6 +61,11 @@ th {
     text-align: center;
 }
 
+iframe {
+    border:10px solid #000;
+    border-radius: 10px !important;
+    margin-bottom: 1%;
+}
 
 .img-responsive {
     width: 280px;
