@@ -6,5 +6,5 @@ img: ../people/cadell.png
 link: speakers/last
 category: Speakers
 description: |
- <p class="lead">Planetary Multi-Personal Transcendence: Potential Being-Net Formation in the Global Brain Plan</p>
+ <p class="lead">Self-actualization in the Commons</p>
 ---
