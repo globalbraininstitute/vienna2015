@@ -33,7 +33,7 @@ All talks will be held at [Freihaus, Vienna University of Technology (TU Wien), 
 |9:30 – 10:00 |Arora Payal <br/>(Invited) |<a href="{{site.baseurl}}/speakers/arora/">Big data Commons and the global South</a> |Lecture Hall FH6|
 |10:00 – 10:30|Stefania Milan <br/>(Invited)|<a href="{{site.baseurl}}/speakers/milan/">Big Data and the understanding of the political stream</a>|Lecture Hall FH6|
 |<strong>Coffee break</strong>|
-|11:00 – 11:45|Cadell Last|<a href="{{site.baseurl}}/speakers/last/">Self-actualisation in the Commons</a>|Lecture Hall FH7|
+|11:00 – 11:45|Cadell Last|<a href="{{site.baseurl}}/speakers/last/">Self-actualization in the Commons</a>|Lecture Hall FH7|
 |11:45 - 12:15|<a href="http://en.wikipedia.org/wiki/Howard_Bloom">Howard Bloom</a>|Turning everything on its head|Lecture Hall FH7|
 |12:15 - 12:30|Øyvind Vada|Hierarchies and networks|Lecture Hall FH7|
 |<strong>Lunch</strong>|
