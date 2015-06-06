@@ -34,7 +34,7 @@ All talks will be held at [Freihaus, Vienna University of Technology (TU Wien), 
 |10:00 – 10:30|Stefania Milan <br/>(Invited)|<a href="{{site.baseurl}}/speakers/milan/">Big Data and the understanding of the political stream</a>|Lecture Hall FH6|
 |<strong>Coffee break</strong>|
 |11:00 – 11:45|Cadell Last|<a href="{{site.baseurl}}/speakers/last/">Planetary Multi-Personal Transcendence: Potential Being-Net Formation in the Global Brain</a>|Lecture Hall FH7|
-|11:45 - 12:15|<a href="http://en.wikipedia.org/wiki/Howard_Bloom">Howard Bloom</a>|Turning everything on it's head|Lecture Hall FH7|
+|11:45 - 12:15|<a href="http://en.wikipedia.org/wiki/Howard_Bloom">Howard Bloom</a>|Turning everything on its head|Lecture Hall FH7|
 |12:15 - 12:30|Øyvind Vada|Hierarchies and networks|Lecture Hall FH7|
 |<strong>Lunch</strong>|
 |16:00 – 16:45|Dana Klisanin|<a href="{{site.baseurl}}/speakers/danaklisanin/">Choice Words: An Integral Exploration of Signifiers Being Used to Reference Global Interconnectedness</a>|Lecture Hall FH7|
