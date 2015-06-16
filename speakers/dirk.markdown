@@ -10,11 +10,11 @@ comments: true
 
 ## Creating a Planetary Nervous System as a Citizen Web
 
-<div class="center button-section">
+<div class="button-section">
   <a class="btn btn-default" href="../dirk-abstract" target="_blank">Abstract (HTML)</a>
 </div>
 
-<div class="center">
+<div>
   <iframe width="700" height="393" src="https://www.youtube.com/embed/kvnkoT4CLNk" frameborder="0" allowfullscreen></iframe>
 </div>
 

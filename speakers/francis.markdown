@@ -10,11 +10,11 @@ comments: true
 
 ## The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web
 
-<div class="center button-section">
+<div class="button-section">
   <a class="btn btn-default" href="../francis-abstract" target="_blank">Abstract (HTML)</a>
 </div>
 
-<div class="center">
+<div>
   <iframe width="700" height="393" src="https://www.youtube.com/embed/sCkKvKQ94og" frameborder="0" allowfullscreen></iframe>
 </div>
 
