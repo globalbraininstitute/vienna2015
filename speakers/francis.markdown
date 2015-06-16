@@ -20,7 +20,7 @@ comments: true
 
 ## Links:
 
-* The first part of the talk was not recorded, but is close to the one given in UQAM (Montreal) in 2014, which is available [here](https://www.youtube.com/watch?v=w2sznrVtiLg).
+* The first part of the talk was not recorded, but is close to the one given at UQAM (Montreal) in 2014, which is available [here](https://www.youtube.com/watch?v=w2sznrVtiLg).
 
 * [Home page](http://pespmc1.vub.ac.be/heyl.html)
 
