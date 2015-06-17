@@ -11,7 +11,7 @@ comments: true
 ## The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web
 
 <div class="button-section">
-  <a class="btn btn-default" href="../francis-abstract" target="_blank">Abstract (HTML)</a>
+  <a class="btn btn-default" href="../francis-abstract">Abstract (HTML)</a>
 </div>
 
 <div>
