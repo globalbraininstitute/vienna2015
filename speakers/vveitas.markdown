@@ -12,7 +12,7 @@ comments: false
 
 <div class="button-section">
   <a class="btn btn-default" href="../vveitas-abstract">Abstract (HTML)</a>
-  <a class="btn btn-default" href="../../files/vveitas-abstract.pdf">Abstract (PDF)</a>
+  <a class="btn btn-default" href="../../files/vveitas-abstract.pdf">Extended abstract (PDF)</a>
   <a class="btn btn-default" href="http://freedomandconstraint.github.io/vienna2015presentation">Presentation (HTML)</a>
 </div>
 
