@@ -17,7 +17,7 @@ All talks will be held at [Freihaus, Vienna University of Technology (TU Wien), 
 |09:30 - 10:00|Francis Heylighen <br/>(Keynote)|<a href="{{site.baseurl}}/speakers/francis/">The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web</a>|No|Lecture Hall FH6|
 |10:00 - 10:30|Dirk Helbing <br/>(Keynote)|<a href="{{site.baseurl}}/speakers/dirk/">Creating a Planetary Nervous System as a Citizen Web</a>|No|Lecture Hall FH6|
 |<strong>Location change</strong>|
-|11:00 - 11:45|Francis Helighen <br/>(Extended)|<a href="{{site.baseurl}}/speakers/francis/">The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web</a>|<a href="https://www.youtube.com/watch?v=sCkKvKQ94og" target="_blank"><strong>Yes</strong></a>|Lecture Hall FH7|
+|11:00 - 11:45|Francis Heylighen <br/>(Extended)|<a href="{{site.baseurl}}/speakers/francis/">The Global Brain: a Self-organizing, Distributed Intelligence Emerging from the Web</a>|<a href="https://www.youtube.com/watch?v=sCkKvKQ94og" target="_blank"><strong>Yes</strong></a>|Lecture Hall FH7|
 |11:45 - 12:30|Dirk Helbing <br/>(Extended)|<a href="{{site.baseurl}}/speakers/dirk/">Creating a Planetary Nervous System as a Citizen Web</a>|<a href="https://www.youtube.com/watch?v=kvnkoT4CLNk" target="_blank"><strong>Yes</strong></a>|Lecture Hall FH7|
 |<strong>Lunch</strong>|
 |14:00 - 14:45|Viktoras Veitas|<a href="{{site.baseurl}}/speakers/vveitas/">Living Cognitive Society: a "digital" World of Views</a>|<a href="https://www.youtube.com/watch?v=-IxpyryFNeQ" target="_blank"><strong>Yes</strong></a>|Lecture Hall FH7|
