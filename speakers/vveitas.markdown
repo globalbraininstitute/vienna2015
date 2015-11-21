@@ -11,9 +11,8 @@ comments: false
 ## Living Cognitive Society: a ‘digital’ World of Views
 
 <div class="button-section">
-  <a class="btn btn-default" href="../vveitas-abstract">Abstract (HTML)</a>
-  <a class="btn btn-default" href="../../files/vveitas-abstract.pdf">Extended abstract (PDF)</a>
-  <a class="btn btn-default" href="http://freedomandconstraint.github.io/vienna2015presentation">Presentation (HTML)</a>
+  <a class="btn btn-default" href="../../files/vveitas-abstract.pdf">Extended abstract</a>
+  <a class="btn btn-default" href="http://freedomandconstraint.github.io/vienna2015presentation">Presentation (HTML)</a>    <<a class="btn btn-default" href="https://vveitas.files.wordpress.com/2015/11/paper2.pdf">Full paper (preprint)</a>
 </div>
 
 <div>
